@@ -3,7 +3,7 @@
 display: flex;
 flex-wrap: nowrap;
 flex-direction: row-reverse;
-justify-content: space-around;
+align-items: flex-end;
 
 }
 
@@ -21,3 +21,4 @@ justify-content: space-around;
     
 }
  
+
